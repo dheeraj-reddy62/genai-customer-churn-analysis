@@ -1,6 +1,7 @@
-# 🚀 GenAI-Customer-Churn-Analysis
+# 🚀 GenAI Customer Churn Analysis
 
-🚀 GenAI-Enabled Data Analytics Project | SQL + Power BI + Data Modeling + AI Insights
+🚀 GenAI-Enabled Data Analytics Project
+📊 SQL | Power BI | Data Modeling | AI Insights
 
 End-to-end customer churn analysis project using SQL and Power BI, enhanced with Generative AI for insight generation and business recommendations.
 
