@@ -228,7 +228,15 @@ Customer-level dataset including:
 
 \## 📸 Dashboard Preview
 
+## 📊 Dashboard Preview
 
+![Customer Overview](images/page1.png)
+
+![Churn Analysis](images/page2.png)
+
+![Customer Behavior](images/page3.png)
+
+![AI Insights](images/page4.png)
 
 !\[Page 1](images/page1.png)
 
