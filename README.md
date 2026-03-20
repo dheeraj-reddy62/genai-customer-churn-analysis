@@ -1,4 +1,4 @@
-genai-customer-churn-analysis
+# 🚀 GenAI-Customer-Churn-Analysis
 
 🚀 GenAI-Enabled Data Analytics Project | SQL + Power BI + Data Modeling + AI Insights
 
