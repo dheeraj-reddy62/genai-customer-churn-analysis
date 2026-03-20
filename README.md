@@ -4,12 +4,17 @@ End-to-end customer churn analysis project using SQL and Power BI, enhanced with
 
 ---
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
-- Customer Overview → images/page1.png
-- Churn Analysis → images/page2.png
-- Customer Behavior → images/page3.png
-- AI Insights → images/page4.png
+![Customer Overview](images/page1.png)
+
+![Churn Analysis](images/page2.png)
+
+![Customer Behavior](images/page3.png)
+
+![AI Insights](images/page4.png)
+
+
 
 ---
 
